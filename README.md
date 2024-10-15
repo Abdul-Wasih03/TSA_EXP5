@@ -3,17 +3,17 @@
 ### Name: Syed Abdul Wasih H
 ### Register Number: 212221240057
 
-### AIM:
+## AIM:
 To Illustrates how to perform time series analysis and decomposition on the monthly average temperature of a city/country and for airline passengers.
 
-### ALGORITHM:
+## ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
 3. Perform the decomposition process for the required data.
 4. Plot the data according to need, either seasonal_decomposition or trend plot.
 5. Display the overall results.
 
-### PROGRAM:
+## PROGRAM:
 ```python
 import pandas as pd
 import numpy as np
@@ -70,16 +70,16 @@ plt.tight_layout()
 plt.show()
 ```
 
-### OUTPUT:
-# Original Time Series
+## OUTPUT:
+### Original Time Series
 ![image](https://github.com/user-attachments/assets/db7c49d4-8df9-449a-b72a-5665dbd0180a)
-# Trend Component
+### Trend Component
 ![image](https://github.com/user-attachments/assets/69e32470-2ece-4f85-8359-a54d6817458a)
-# Seasonal Component
+### Seasonal Component
 ![image](https://github.com/user-attachments/assets/b354e4a4-aa12-443a-80d8-dfbb264bfa9d)
-# Residual Component
+### Residual Component
 ![image](https://github.com/user-attachments/assets/d8244af5-432d-42b6-9a91-dd33bb1a897a)
 
 
-### RESULT:
-Thus, the python code for the time series analysis and decomposition.
+## RESULT:
+Thus, the python code for the time series analysis and decomposition is successful.
